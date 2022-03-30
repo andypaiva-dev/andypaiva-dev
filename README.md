@@ -8,10 +8,10 @@ Heya! I'm Andy, frontend developer and software engineer student currently livin
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Javascript-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-ReactJs-d1a01f?style=for-the-badge&logo=react&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Typescript-c58545?style=for-the-badge&logo=typescript&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NodeJs-d1a01f?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Flutter-c58545?style=for-the-badge&logo=flutter&logoColor=c58545&labelColor=282828">
 </div>
 </p>
 
