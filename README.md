@@ -2,16 +2,18 @@
   <b>Andy Paiva</b>
 </h1>
 
-Heya! I'm Andy, frontend developer and software engineer student currently living in São Paulo, Brazil.
+Heya! I'm Andy, mobile developer and software engineer student currently living in São Paulo, Brazil.
 
 <br>
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-ReactJs-d1a01f?style=for-the-badge&logo=react&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Typescript-c58545?style=for-the-badge&logo=typescript&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NodeJs-d1a01f?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Flutter-c58545?style=for-the-badge&logo=flutter&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Flutter-d1a01f?style=for-the-badge&logo=flutter&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Dart-c58545?style=for-the-badge&logo=dart&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Android-d1a01f?style=for-the-badge&logo=android&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Kotlin-c58545?style=for-the-badge&logo=Kotlin&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-iOS-d1a01f?style=for-the-badge&logo=ios&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Swift-c58545?style=for-the-badge&logo=swift&logoColor=c58545&labelColor=282828">
 </div>
 </p>
 
