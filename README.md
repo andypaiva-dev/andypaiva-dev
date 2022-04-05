@@ -23,7 +23,7 @@ self.name = "Andy";
 self.username = "andypaiva-dev";
 self.location = "São Paulo, Brazil";
 self.twitter = "@andypaiva-dev";
-self.dev = "Frontend";
+self.dev = "Mobile";
 
 console.log("This is " + self.name);
 ```
