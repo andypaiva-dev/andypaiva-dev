@@ -10,9 +10,7 @@ Heya! I'm Andy, mobile developer and software engineer student currently living 
 <div align="center">
   <img src="https://img.shields.io/badge/-iOS-d1a01f?style=for-the-badge&logo=ios&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Swift-c58545?style=for-the-badge&logo=swift&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Flutter-d1a01f?style=for-the-badge&logo=android&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Dart-c58545?style=for-the-badge&logo=Kotlin&logoColor=c58545&labelColor=282828">
-</div>
+  </div>
 </p>
 
 ```javascript
