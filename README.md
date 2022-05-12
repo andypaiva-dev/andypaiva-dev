@@ -2,7 +2,7 @@
   <b>Andy Paiva</b>
 </h1>
 
-Heya! I'm Andy, mobile developer and software engineer student currently living in São Paulo, Brazil.
+Heya! I'm Andy, iOS developer and software engineer student currently living in São Paulo, Brazil.
 
 <br>
 
@@ -10,7 +10,9 @@ Heya! I'm Andy, mobile developer and software engineer student currently living 
 <div align="center">
   <img src="https://img.shields.io/badge/-iOS-d1a01f?style=for-the-badge&logo=ios&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Swift-c58545?style=for-the-badge&logo=swift&logoColor=c58545&labelColor=282828">
-  </div>
+  <img src="https://img.shields.io/badge/-Flutter-d1a01f?style=for-the-badge&logo=flutter&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Dart-c58545?style=for-the-badge&logo=dart&logoColor=c58545&labelColor=282828">
+</div>
 </p>
 
 ```javascript
