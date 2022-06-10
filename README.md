@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo andypaiva">
 
 <p align="left"> 
  🖖 Olá, meu nome é Anderson Paiva. Sou <strong>Engenheiro de Software, Desenvolvedor Mobile</strong> e <strong>UI Designer</strong>.
