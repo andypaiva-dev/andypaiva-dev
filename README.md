@@ -1,48 +1,30 @@
-<h1 align="center">
-  <b>Andy Paiva</b>
-</h1>
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
-Heya! I'm Andy, iOS developer and software engineer student currently living in São Paulo, Brazil.
+<p align="left"> 
+ 🖖 Olá, meu nome é Anderson Paiva. Sou <strong>Engenheiro de Software, Desenvolvedor Mobile</strong> e <strong>UI Designer</strong>.
+</p>
+
+<p align="left">
+ ☕ Habilidades: <strong>Flutter, iOS e Android</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Xcode, AndroidStudio, Firebase, Git e GitHub.</strong>
+</p>
+
 
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-iOS-d1a01f?style=for-the-badge&logo=ios&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Swift-c58545?style=for-the-badge&logo=swift&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Flutter-d1a01f?style=for-the-badge&logo=flutter&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Dart-c58545?style=for-the-badge&logo=dart&logoColor=c58545&labelColor=282828">
-</div>
-</p>
-
-```javascript
-var self = new Object();
-self.name = "Andy";
-self.username = "andypaiva-dev";
-self.location = "São Paulo, Brazil";
-self.twitter = "@andypaiva-dev";
-self.dev = "Mobile";
-
-console.log("This is " + self.name);
-```
-
-## My Statistics
-
-<br/>
 <p align="left">
-  <a href="https://github.com/andypaiva-dev">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andypaiva-dev&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andypaiva-dev&theme=gruvbox&hide_border=true" />
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-5fcaf8?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-5fcaf8?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+  <a href="#" alt="Portfólio">
+    <img src="https://img.shields.io/badge/-Portfolio-5fcaf8?style=for-the-badge&logo=Flutter&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
-<br>
-
-![Andy Paiva Activity Graph](https://activity-graph.herokuapp.com/graph?username=andypaiva-dev&custom_title=Andy%20Paiva%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
-
-
-
-<!---
-andypaiva-dev/andypaiva-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
